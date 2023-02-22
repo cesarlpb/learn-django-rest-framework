@@ -25,7 +25,7 @@ Respecto del [tutorial de la documentación](https://www.django-rest-framework.o
 
 [Tutorial de Requests y Responses](https://www.django-rest-framework.org/tutorial/2-requests-and-responses/) en [2.Requests and responses](./2.requests_responses/)
 
-## 3.
+## 3. Class Based Views
 
 ## 4. 
 

@@ -134,3 +134,6 @@ env/
 env/*
 
 .DS_Store
+
+# Ignoramos entorno
+django_env/
