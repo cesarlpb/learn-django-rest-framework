@@ -137,3 +137,6 @@ env/*
 
 # Ignoramos entorno
 django_env/
+
+# Ignoramos backups
+*.bak
